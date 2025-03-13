@@ -4,7 +4,7 @@
 ### Overview
 Membrane fouling remains a significant challenge in Reverse Osmosis (RO) water treatment systems, reducing efficiency and increasing maintenance costs. This project develops a PCA-integrated Multi-Layer Perceptron (MLP) neural network to predict membrane fouling by leveraging historical operational data. The model applies Principal Component Analysis (PCA) to reduce feature dimensionality and a deep learning approach to forecast Stage 3 flux, aiding in proactive maintenance planning.
 
-<img width="1104" alt="image" src="https://github.com/user-attachments/assets/cebc475b-0125-49cc-ae1d-0918ceee91a0" />
+<img width="1104" alt="image" src="https://github.com/user-attachments/assets/2a0fd91f-70bd-4705-a3f3-5ac365b4f17f" />
 
 ## Problem Statement
 RO systems are widely used in water treatment, but membrane fouling reduces efficiency and increases operational costs. Existing predictive models struggle to generalize across varying operational conditions. This project employs machine learning to improve membrane fouling prediction accuracy.
