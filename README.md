@@ -33,11 +33,7 @@ cd HydroMLP/Data
 ```
 
 ### Install Required Dependencies
-Install necessary Python packages using:
-```bash
-pip install -r requirements.txt
-```
-Alternatively, manually install required libraries:
+Install required libraries:
 ```bash
 pip install numpy pandas matplotlib scipy tensorflow scikit-learn
 ```
@@ -120,13 +116,3 @@ HydroMLP/
 - **Jiayi Chen** - [cjiayi@stanford.edu](mailto:cjiayi@stanford.edu)
 - **Tianchen He** - [hetc@stanford.edu](mailto:hetc@stanford.edu)
 - **Xinyu Jing** - [xj1225@stanford.edu](mailto:xj1225@stanford.edu)
-
-## Citation
-If you use this work, please cite:
-```bibtex
-@article{hydromlp2025,
-  author  = {Chen, Jiayi and He, Tianchen and Jing, Xinyu},
-  title   = {PCA-Integrated Multi-Layer Perceptron Neural Network for Predicting Reverse Osmosis Membrane Fouling},
-  year    = {2024},
-  journal = {CHEMENG 277 Project Submission 2025}
-}
