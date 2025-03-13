@@ -76,7 +76,7 @@ X_{scaled} = \frac{X - \mu}{\sigma}
 ## Running the Model
 ### Execute the Main Script
 ```bash
-python HydroMLP.py
+python HydroMLP_Chen_He_Jing.py
 ```
 
 ### Expected Outputs
