@@ -113,7 +113,7 @@ R^2 = 1 - \frac{\sum (y_i - \hat{y}_i)^2}{\sum (y_i - \bar{y})^2}
 ```
 HydroMLP/
 │-- Data/         # Contains RO system operational data
-│-- HydroMLP.py   # Main execution script
+│-- HydroMLP_Chen_He_Jing.py   # Main execution script
 │-- README.md     # Project documentation
 ```
 
