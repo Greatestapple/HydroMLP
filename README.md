@@ -23,6 +23,9 @@ RO systems are widely used in water treatment, but membrane fouling reduces effi
 
 ### MLP Model
 - Neural network with ReLU activation, trained using the Adam optimizer.
+- Input layers: 7 principle components.
+- Hidden layers: (25, 25, 40).
+- Output layer: Stage 3 Flux.
 
 ### Evaluation
 - RMSE and R² used for model assessment.
